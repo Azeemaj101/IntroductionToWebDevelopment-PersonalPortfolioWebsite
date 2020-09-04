@@ -1,0 +1,120 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(223, 223, 248);
+}
+
+.size {
+    height: 40px;
+    width: 40px;
+    border-radius: 23px;
+}
+
+.size:hover {
+    box-shadow: 2.5px 2.5px 15px blue;
+}
+
+.h {
+    height: 500px;
+}
+
+.wal {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.SmallSize {
+    font-size: 8px;
+    color: rgb(0, 0, 0);
+}
+
+.Heading {
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+    text-shadow: 5px 5px 10px rgb(255, 255, 255);
+}
+
+.Section {
+    margin: 20px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.Section:hover {
+    background-color: rgb(107, 107, 107);
+    box-shadow: 5px 5px 10px rgb(57, 57, 241);
+    color: white;
+}
+
+.Mid {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Mid_Con {
+    display: flex;
+    text-align: center;
+}
+
+.Prog_text {
+    margin: 20px;
+    text-align: center;
+    font-size: 29px;
+    text-shadow: 5px 5px 10px rgb(138, 86, 86);
+    font-weight: bold;
+}
+
+.Menu_Button {
+    padding: 10px;
+}
+
+.opa {
+    opacity: 6;
+}
+
+.mr-auto li {
+    text-align: center;
+}
+
+.btn1 {
+    display: flex;
+    justify-content: center;
+}
+
+.FootButton {
+    display: flex;
+    justify-content: center;
+}
+
+.MSection {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+}
+
+.Icon {
+    height: 200px;
+    width: 200px;
+}
+
+.Icon2:hover {
+    box-shadow: 5px 5px 50px blue;
+}
+
+.Icon2 {
+    height: 35px;
+    width: 35px;
+}
+
+.BorderTop {
+    border-top: 2px solid white;
+}
+
+a:hover {
+    text-decoration: none;
+}
