@@ -102,13 +102,13 @@ body {
     width: 200px;
 }
 
-.Icon2:hover {
-    box-shadow: 5px 5px 50px blue;
-}
-
 .Icon2 {
     height: 35px;
     width: 35px;
+}
+
+.Icon2:hover {
+    box-shadow: 5px 5px 50px blue;
 }
 
 .BorderTop {
